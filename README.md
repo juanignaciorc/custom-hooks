@@ -1,1 +1,1 @@
-# Repositorio de hooks de ayuda . . .  
+# Repositorio de hooks  . . .  
